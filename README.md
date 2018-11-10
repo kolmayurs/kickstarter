@@ -1,6 +1,6 @@
 # Kickstarter
 
-Live Demo : https://kickstarter-hackerearth.herokuapp.com/
+Live Demo : http://kickstarter-hackerearth.herokuapp.com/
 
 
 ## Available Commands
